@@ -43,7 +43,7 @@
   </tr>
 </table>
 
-### :soon:Frontend
+### :soon: Frontend
 
 ### :soon: Backend
 
