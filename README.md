@@ -1,9 +1,19 @@
 # 👋 Hi there, I'm David Almodóvar Galvañ 
-### :soon: About me
+### Who am I?
 
+```python
+ class WhoAmI:
+ 	user = 'David Almodóvar Galvañ'
+	current_edu = "Multiplatform Application Development at I.E.S. Severo Ochoa Elche"
+	hobbies = [
+				'Strength training',
+				'Running',
+				'Reading Sci-Fi Novels'
+			]
+ ```
 ## Skills
-###  :globe_with_meridians: Languages
-[Common European Framework of Reference for Languages (CEFR)](https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions)
+### Languages
+Common European Framework of Reference for Languages (CEFR)
 <table>
   <tr>
     <th>Idioma</td>
@@ -43,15 +53,14 @@
   </tr>
 </table>
 
-### :soon: Frontend
+### Frontend
 
-### :soon: Backend
+### Backend
 
-### :soon: Tools
-
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 ## My stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/davidagdev?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidagdev&size_weight=0.5&count_weight=0.5)
 <!--
 **davidagdev/davidagdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
