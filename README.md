@@ -53,9 +53,9 @@ Common European Framework of Reference for Languages (CEFR)
   </tr>
 </table>
 
-### Frontend
+### 🔜 Frontend
 
-### Backend
+### 🔜 Backend
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
