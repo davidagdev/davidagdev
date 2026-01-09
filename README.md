@@ -11,15 +11,12 @@
     def get_hobbies(self):
         return ["Strength training", "Running", "Sci-Fi Novels"]
 
-    def current_focus(self):
-        return "Building robust Multiplatform Apps & Mastering Backend logic"
-
  ```
 ## Skills
 ### :speech_balloon: Languages
 Common European Framework of Reference for Languages (CEFR)
 * 🇪🇸 ![Spanish](https://img.shields.io/badge/Spanish-Native-brightgreen) ![Progress](https://geps.dev/progress/100)
-* 🥘 ![Valenciano](https://img.shields.io/badge/Valenciano-B2-yellow) ![Progress](https://geps.dev/progress/67)
+* <img src="https://openmoji.org/data/color/svg/1F3F4-E0065-E0073-E0076-E0063-E007F.svg" width="25" height="25"> ![Valenciano](https://img.shields.io/badge/Valenciano-B2-yellow) ![Progress](https://geps.dev/progress/67)
 * 🇬🇧 ![English](https://img.shields.io/badge/English-B1-yellow) ![Progress](https://geps.dev/progress/50)
 * 🇫🇷 ![French](https://img.shields.io/badge/French-A1-red) ![Progress](https://geps.dev/progress/20)
 
