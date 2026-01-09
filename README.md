@@ -1,64 +1,41 @@
-# 👋 Hi there, I'm David Almodóvar Galvañ 
+# Hi there, I'm David Almodóvar Galvañ 👋
 ### Who am I?
 
 ```python
- class WhoAmI:
- 	user = 'David Almodóvar Galvañ'
-	current_edu = "Multiplatform Application Development at I.E.S. Severo Ochoa Elche"
-	hobbies = [
-				'Strength training',
-				'Running',
-				'Reading Sci-Fi Novels'
-			]
+ class DavidAlmodovar:
+    def __init__(self):
+        self.name = "David Almodóvar Galvañ"
+        self.role = "Student of Multiplatform Application Development"
+        self.location = "Spain"
+        
+    def get_hobbies(self):
+        return ["Strength training", "Running", "Sci-Fi Novels"]
+
+    def current_focus(self):
+        return "Building robust Multiplatform Apps & Mastering Backend logic"
+
  ```
 ## Skills
-### Languages
+### :speech_balloon: Languages
 Common European Framework of Reference for Languages (CEFR)
-<table>
-  <tr>
-    <th>Idioma</td>
-    <th>A1</td>
-    <th>A2</td>
-    <th>B1</td>
-    <th>B2</td>
-    <th>C1</td>
-    <th>C2</td>
-  </tr>
-  <tr>
-    <td>:fr: French</td>
-    <td>:white_check_mark:</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>:gb: English</td>
-    <td></td>
-    <td></td>
-    <td>:white_check_mark:</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Valenciano</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>:white_check_mark:</td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+* 🇪🇸 ![Spanish](https://img.shields.io/badge/Spanish-Native-brightgreen) ![Progress](https://geps.dev/progress/100)
+* 🥘 ![Valenciano](https://img.shields.io/badge/Valenciano-B2-yellow) ![Progress](https://geps.dev/progress/67)
+* 🇬🇧 ![English](https://img.shields.io/badge/English-B1-yellow) ![Progress](https://geps.dev/progress/50)
+* 🇫🇷 ![French](https://img.shields.io/badge/French-A1-red) ![Progress](https://geps.dev/progress/20)
 
-### 🔜 Frontend
+### 🛠 Technologies & Tools
 
-### 🔜 Backend
+**Frontend**
+<br />
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+**Backend**
+<br />
+
+**Tools**
+<br />
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
+
 ## My stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/davidagdev?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 <!--
