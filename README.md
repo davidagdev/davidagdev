@@ -17,7 +17,7 @@
 [Common European Framework of Reference for Languages (CEFR)](https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions)
 
 ![Spanish](https://img.shields.io/badge/🇪🇸_Spanish-Native-brightgreen)
-![Valenciano](https://img.shields.io/badge/🥘_Valenciano-B2-yellow)
+![Valenciano](https://img.shields.io/badge/Valenciano-B2-yellow)
 ![English](https://img.shields.io/badge/🇬🇧_English-B1-yellow)
 ![French](https://img.shields.io/badge/🇫🇷_French-A1-red)
 
