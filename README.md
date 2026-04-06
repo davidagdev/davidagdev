@@ -1,4 +1,6 @@
 # Hi there, I'm David Almodóvar Galvañ 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidagdev" alt="davidagdev" /> </p>
+
 ### Who am I?
 
 ```python
@@ -25,28 +27,22 @@
 
 **Frontend**
 <br />
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 **Backend**
 <br />
 
 **Tools**
 <br />
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,idea)](https://skillicons.dev)
+
+**Software**
+<br />
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+
+**Extra**
+<br />
+[![My Skills](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
 
 ## My stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/davidagdev?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
-<!--
-**davidagdev/davidagdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
