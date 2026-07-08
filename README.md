@@ -46,3 +46,5 @@
 
 ## My stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/davidagdev?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=davidagdev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
